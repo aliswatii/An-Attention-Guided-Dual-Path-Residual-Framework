@@ -34,6 +34,7 @@ This repository implements an **Attention-Guided Dual-Path Residual Framework** 
 ##  Prerequisites
 
 Ensure you have the following software installed (can be installed via pip or conda):
+Dataset ADNI and PPMI
 
 - Python (recommended ≥ 3.8)  
 - TensorFlow  
